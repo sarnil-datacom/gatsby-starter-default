@@ -7,10 +7,10 @@ import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
+    <SEO title="Notify Me" />
+    <h1>Notify Me</h1>
+    <p>Welcome to Notify Me</p>
+    <p>This is app is work in progress</p>
     <StaticImage
       src="../images/gatsby-astronaut.png"
       width={300}
